@@ -326,7 +326,7 @@ align-content: space-around;
     left: 50%;
     margin: 0px;
     transform: translate(-50%, -30%);
-    /*visibility: hidden;*/
+    visibility: hidden;
 }
 
 #projects-col-button-1, #projects-col-button-2, #projects-col-button-3, #projects-col-button-4, #projects-col-button-5, #projects-col-button-6{
@@ -341,7 +341,7 @@ border: 2px solid lightsalmon;
 left: 50%;
 transform: translate(-50%, 140%);
 margin: 0px;
-/*visibility: hidden;*/
+visibility: hidden;
 
 }
 
@@ -352,7 +352,7 @@ margin: 0px;
   
 }
 
-#col-1:hover #projects-col-button-1, #col-2:hover #projects-col-button-2, #col-3:hover #projects-col-button-3, #col-4:hover #projects-col-button-4, #col-5:hover #projects-col-button-5, #col-6:hover #projects-col-button-6{
+#col-1:active #projects-col-button-1, #col-2:hover #projects-col-button-2, #col-3:hover #projects-col-button-3, #col-4:hover #projects-col-button-4, #col-5:hover #projects-col-button-5, #col-6:hover #projects-col-button-6{
     visibility: visible;
     color: white;
     transition-duration: 1500ms;  
@@ -646,7 +646,6 @@ transition-duration: 500ms;
             width: 95%;
             margin: 5px;
             border-radius: 25px;
-            z-index: 99;
         }
 
         #above-container{
