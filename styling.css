@@ -638,13 +638,13 @@ transition-duration: 500ms;
         #projects-col{
             flex-direction: column;
             justify-content: space-around;
-            height: 300%;
+            height: 200%;
             flex-wrap: nowrap;
         }
 
         #col-1, #col-2, #col-3, #col-4, #col-5, #col-6{
             width: 95%;
-            margin: 5px;
+          
             border-radius: 25px;
         }
 
