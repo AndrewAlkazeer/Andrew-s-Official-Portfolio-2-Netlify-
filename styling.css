@@ -568,6 +568,7 @@ transition-duration: 500ms;
         }   
     #self-taught{    
         width: 100%;
+        background-color: lightgreen;
         }
 
         #about-me{
