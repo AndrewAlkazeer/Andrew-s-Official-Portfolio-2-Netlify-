@@ -646,6 +646,7 @@ transition-duration: 500ms;
             width: 95%;
             margin: 5px;
             border-radius: 25px;
+            z-index: 99;
         }
 
         #above-container{
