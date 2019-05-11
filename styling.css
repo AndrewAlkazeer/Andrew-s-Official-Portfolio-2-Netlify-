@@ -592,7 +592,7 @@ transition-duration: 500ms;
     
 
         #projects{
-            top: 180%;
+            top: 120%;
             height: 100%;
             background-color: pink;
         }
