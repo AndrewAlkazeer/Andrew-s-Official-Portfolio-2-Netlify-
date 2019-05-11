@@ -341,7 +341,8 @@ border: 2px solid lightsalmon;
 left: 50%;
 transform: translate(-50%, 140%);
 margin: 0px;
-visibility: hidden;
+/*visibility: hidden;*/
+    display: none;
 
 }
 
