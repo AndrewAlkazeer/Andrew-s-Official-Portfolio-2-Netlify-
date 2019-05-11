@@ -564,16 +564,16 @@ transition-duration: 500ms;
         }
 
         #hi{
-        
+        top: 30%;
         }   
     #self-taught{    
         width: 100%;
-        top: 50%;
+        top: 30%;
         background-color: lightgreen;
         }
 
         #about-me{
-        top: 20%;
+        top: 30%;
         }
 
         #short-about-me{
