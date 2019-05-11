@@ -658,6 +658,7 @@ transition-duration: 500ms;
 
        #white-page{
             top: 30%;
+            height: 120%;
             background-color: blue;
         }
         
