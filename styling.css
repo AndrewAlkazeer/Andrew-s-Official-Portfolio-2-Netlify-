@@ -326,7 +326,7 @@ align-content: space-around;
     left: 50%;
     margin: 0px;
     transform: translate(-50%, -30%);
-    visibility: hidden;
+    /*visibility: hidden;*/
 }
 
 #projects-col-button-1, #projects-col-button-2, #projects-col-button-3, #projects-col-button-4, #projects-col-button-5, #projects-col-button-6{
