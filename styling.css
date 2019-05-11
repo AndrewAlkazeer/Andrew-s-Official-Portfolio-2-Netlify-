@@ -573,7 +573,7 @@ transition-duration: 500ms;
         }
 
         #about-me{
-        top: 30%;
+        top: 20%;
         }
 
         #short-about-me{
@@ -652,6 +652,7 @@ transition-duration: 500ms;
             flex-direction: column;
             justify-content: space-between;
             top: -70%;
+            margin:0px;
         }
 
         #part1, #part2, #part3{
