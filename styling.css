@@ -651,11 +651,14 @@ transition-duration: 500ms;
         #above-container{
             flex-direction: column;
             justify-content: space-between;
-            top: -70%;
+            top: -85%;
             margin:0px;
             height: 130%;
         }
 
+        #white-page{
+        }
+        
         #part1, #part2, #part3{
             width: 100%;
             border-bottom: none;
