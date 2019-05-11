@@ -569,7 +569,6 @@ transition-duration: 500ms;
     #self-taught{    
         width: 100%;
         top: 20%;
-        background-color: lightgreen;
         }
 
         #about-me{
@@ -595,6 +594,7 @@ transition-duration: 500ms;
         #projects{
             top: 180%;
             height: 100%;
+            background-color: pink;
         }
         
         #projects-col-p-1, #projects-col-p-2, #projects-col-p-3, #projects-col-p-4, #projects-col-p-5, #projects-col-p-6{
@@ -658,8 +658,6 @@ transition-duration: 500ms;
 
        #white-page{
             top: 30%;
-            height: 120%;
-            background-color: blue;
         }
         
         #part1, #part2, #part3{
