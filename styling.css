@@ -657,6 +657,7 @@ transition-duration: 500ms;
         }
 
        #white-page{
+           display: none;
             top: 30%;
         }
         
