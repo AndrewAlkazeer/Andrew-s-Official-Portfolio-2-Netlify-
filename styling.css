@@ -653,6 +653,7 @@ transition-duration: 500ms;
             justify-content: space-between;
             top: -70%;
             margin:0px;
+            height: 110%;
         }
 
         #part1, #part2, #part3{
