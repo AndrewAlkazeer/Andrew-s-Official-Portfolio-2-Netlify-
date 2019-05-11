@@ -638,7 +638,7 @@ transition-duration: 500ms;
         #projects-col{
             flex-direction: column;
             justify-content: space-around;
-            height: 200%;
+            height: 100%;
             flex-wrap: nowrap;
         }
 
