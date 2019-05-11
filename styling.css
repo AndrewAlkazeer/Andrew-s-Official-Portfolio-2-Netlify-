@@ -572,6 +572,7 @@ transition-duration: 500ms;
 
         #about-me{
         top: 30%;
+        background-color: blue;
         }
 
         #short-about-me{
