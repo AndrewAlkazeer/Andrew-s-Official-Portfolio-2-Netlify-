@@ -283,14 +283,14 @@ align-content: space-around;
 }
 
 #col-2{
-    background-image: url('/Fotos/Marketing Platform');
+    background-image: url('/Fotos/Marketing\ Platform.jpg');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 #col-3{
-    background-image: url('/Fotos/Login Screen');
+    background-image: url('/Fotos/Login\ Screen.jpg');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
