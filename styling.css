@@ -297,14 +297,14 @@ align-content: space-around;
 }
 
 #col-4{
-    background-image: url('/Fotos/Drum\ Machine.jpg');
+    background-image: url('/Fotos/SnowMan.jpg');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 #col-5{
-    background-image: url('/Fotos/Portfolio\ Page.jpg');
+    background-image: url('/Fotos/My\ Old\ Portfolio.jpg');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
